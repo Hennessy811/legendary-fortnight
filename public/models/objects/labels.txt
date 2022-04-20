@@ -1,0 +1,9 @@
+active player
+bet
+button
+card
+dealer
+empty seat
+inactive player
+pot
+round pot
